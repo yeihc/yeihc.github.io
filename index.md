@@ -25,9 +25,6 @@ knowledge. Let's talk!
 ## 📫 Contact
 
 - GitHub: [@yeihc](https://github.com/yeihc)
-- 
--LinkenIn: 
-https://www.linkedin.com/in/yeisson-h
+- LinkenIn: https://www.linkedin.com/in/yeisson-h
 errera-49441954/
-
 - Email: yeisson72@gmail.com
